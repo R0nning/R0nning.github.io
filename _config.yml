@@ -1,3 +1,21 @@
-	name: Ron Beitler, Portfolio
-	markdown: kramdown
-	permalink: /blog/:year/:month/:day/:title
+# Title of your website
+title: "Ron Beitler – Graphic Artist, GIS, Maps, and Cartography"
+title_short: "Ron Beitler"
+# The slogan describes your website and is used on homepage in <title> and other important places
+slogan: "Graphic Artist, GIS, Maps, and Cartography
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+description: "The portfolio and creative blog of Ron Beitler – graphic designer, GIS, mapping, & cartography services."
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+#highlight: rouge
+permalink: /blog/:year/:month/:day/:title
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - tmp
+    - scripts
+    - old_blog_content
