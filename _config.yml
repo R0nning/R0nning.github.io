@@ -8,12 +8,12 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Ron Beitler – Graphic Artist, GIS, Maps, and Cartography"
-title_short: "Ron Beitler"
+title: 'Ron Beitler – Graphic Artist, GIS, Maps, and Cartography'
+title_short: 'Ron Beitler'
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Graphic Artist, GIS, Maps, and Cartography
+slogan: 'Graphic Artist, GIS, Maps, and Cartography'
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The portfolio and creative blog of Ron Beitler – graphic designer, GIS, mapping, & cartography services."
+description: 'The portfolio and creative blog of Ron Beitler – graphic designer, GIS, mapping, & cartography services.'
 # Theme works best with Kramdown (using the table of contents function)
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="">Ronning</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
