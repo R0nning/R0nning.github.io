@@ -1,14 +1,27 @@
 ---
-layout: page
-subheadline: "Header"
-title: "Style your Header!"
-teaser: "These are your options to style the header of each webpage individually. <em>Feeling Responsive</em> uses <a href='http://srobbin.com/jquery-plugins/backstretch/'>Backstretch by Scott Robin</a> to expand them from left to right. The width should be 1600 pixel or higher using a ratio like 16:9 or 21:9 or 2:1."
+#
+# Use the widgets beneath and the content will be
+# inserted automagically in the webpage. To make
+# this work, you have to use › layout: frontpage
+#
+layout: frontpage
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/headers/"
+  title: Ronald Beitler
+  image_fullwidth: ronald-map-header.jpg
+widget1:
+  title: "My Blog"
+  url: '/work/'
+  <!-- image: nag-toxicity-map01-thumb.jpg -->
+  text: 'go'
+widget2:
+  title: "My Work"
+  url: '/blog/'
+  <!-- image: widget02.jpg -->
+  text: 'Here will be stuff too' 
+widget3:
+  title: "And Me"
+  url: '/contact/'
+  <!-- image: widget03.jpg -->
+  text: 'Here will be stuff'
+permalink: /index.html
 ---
-<ul>
-    {% for post in site.tags.header %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
