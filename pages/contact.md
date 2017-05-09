@@ -2,12 +2,12 @@
 layout: page
 title: "Contact"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+teaser: "Get in touch with me? Please use the contact form below."
 permalink: "/contact/"
 header: no
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
+Suggest you use [Wufoo][1]. 
+Suggest you use [Formspree][2].
 
  [1]: http://www.wufoo.com/
+ [2]: https://formspree.io/
