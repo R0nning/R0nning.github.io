@@ -11,10 +11,9 @@ header: no
 <!-- use isotope.js to create and organize content here -->
 <div id="filters" class="button-group filter-button-group t30">
   <button class="active all" data-filter="*">all</button>
-  <button data-filter=".web">interactive</button>
-  <button data-filter=".data-viz">data viz</button>  
-  <button data-filter=".cartography">cartographic design</button>
-  <button class="shuffle">shuffle!</button>
+  <button data-filter=".ghx">graphics and illustrations</button>
+  <button data-filter=".tech">technical illustrations</button>  
+  <button data-filter=".carto">cartographic design</button>
 </div>
 
 <!-- this pulls in projects from _data/work.json -->
