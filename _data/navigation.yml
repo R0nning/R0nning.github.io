@@ -13,9 +13,6 @@
 - title: Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
     
 - title: CV
   url: "/CV/"
