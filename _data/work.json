@@ -6,7 +6,7 @@
     "description": "Something cool, filled with juicey buzzwords.",
     "description_long": "Something cool, filled with juicey buzzwords but longer",
     "tech": ["PS", "AI"]
-    "thumb": "NAME.png",
+    "thumb": ["NAME.png"],
     "imgs": ["Name.jpg", "Name of all.jpg",],
     "size": "width3",
     "date": "2017-00-00"
@@ -16,7 +16,7 @@
     "description": "Something cool, filled with juicey buzzwords",
     "description_long": "Something cool, filled with juicey buzzwords but longer",
     "tech": ["PS", "AI"],
-    "thumb": "NAME.jpg",
+    "thumb": ["NAME.jpg"],
     "imgs": ["Name.jpg", "Name of all.jpg",],
     "size": "width3",
     "date": "2017-00-00"
