@@ -12,16 +12,16 @@ widget1:
   title: "My Work"
   url: 'work/'
   <!-- image: nag-toxicity-map01-thumb.jpg -->
-  text: 'go'
+  text: 'Graphics - Illustrations - Cartography Design - 3D Modeling'
 widget2:
-  title: "My Blog"
-  url: 'blog/'
-  <!-- image: widget02.jpg -->
-  text: 'Here will be stuff too' 
-widget3:
   title: "My Projects"
   url: 'projects/'
   <!-- image: widget03.jpg -->
-  text: 'Here will be stuff'
+  text: 'Personal Projects: Afterfall - the Baronage - the world of Eoere'
+widget3:
+  title: "Contact Me"
+  url: 'contact/'
+  <!-- image: widget02.jpg -->
+  text: 'Need a map? Maybe some graphics? Just want to chat?' 
 permalink: /index.html
 ---
