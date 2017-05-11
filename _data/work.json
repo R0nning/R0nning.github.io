@@ -1,24 +1,24 @@
 {
   "author": "Ron Beitler",
   "work": [{
-    "title": "NYC Crash Mapper",
+    "title": "Title of Map",
     "tags": ["web", "cartography"],
-    "description": "Web application that dynamically maps, analyzes, and filters vehicle collision data reported by the NYPD.",
-    "description_long": "NYC Crash Mapper is a web application that dynamically maps, analyzes, and filters vehicle collision data reported by the NYPD in New York City from 2011 to present. The web app allows a user to select a date range for when crashes occurred, filter the data by crash type (injury or fatality; pedestrian, cyclist, or motorist), filter by administrative boundary, or filter by a custom area using a draw tool. Specific “views” of the data can be shared with other users via a stateful URL which contains any applied filters and map zoom and center. Data from the app may be downloaded in various formats such as CSV, Shapefile, and GeoJSON. New collision data is updated to the app’s database weekly using an ETL script running on a Heroku Scheduler. [Chekpeds](http://chekpeds.com), a non-profit that advocates for pedestrian safety in Hell’s Kitchen, funded the work on the app through a grant from New York City. In addition to developing the app, I mocked and designed the user interface using Adobe Illustrator.",
-    "tech": ["React", "Redux", "Leaflet", "Javascript ES6", "CARTO", "PostgreSQL", "PostGIS", "Webpack"],
-    "thumb": "nyc-crash-mapper-thumb.png",
-    "imgs": ["nyc-crash-mapper01.jpg", "nyc-crash-mapper02.jpg", "nyc-crash-mapper03.jpg", "nyc-crash-mapper04.jpg", "nyc-crash-mapper05.jpg", "nyc-crash-mapper06.jpg", "nyc-crash-mapper07.jpg", "nyc-crash-mapper08.jpg", "nyc-crash-mapper09.jpg", "nyc-crash-mapper10.jpg", "nyc-crash-mapper11.jpg", "nyc-crash-mapper12.jpg"],
+    "description": "Something cool, filled with juicey buzzwords.",
+    "description_long": "Something cool, filled with juicey buzzwords but longer",
+    "tech": ["PS", "AI"]
+    "thumb": "NAME.png",
+    "imgs": ["Name.jpg", "Name of all.jpg",],
     "size": "width3",
-    "date": "2017-03-03"
+    "date": "2017-00-00"
   }, {
-    "title": "MPG Ranch Habitat Restoration Map",
+    "title": "Title of Map",
     "tags": ["web", "cartography"],
-    "description": "An interactive web map and report builder to showcase the work of environmental scientists.",
-    "description_long": "The MPG Ranch Habitat Restoration Map enables a team of environmental scientists to effectively communicate ongoing management plans and actions with their stakeholders and provides a venue for discussion of restoration research and practices through an interactive web map application. \n\n Read more about the project in a [blog post I wrote about it]({{site.url}}/mpg-habitat-restoration-map/).",
-    "tech": ["React", "Redux", "Leaflet", "CARTO", "Node JS", "AWS", "Heroku"],
-    "thumb": "mpg-habitat-thumb.jpg",
-    "imgs": ["mpg-habitat02.jpg", "mpg-habitat13.jpg", "mpg-habitat14.jpg", "mpg-habitat15.jpg", "mpg-habitat16.jpg", "mpg-habitat05.jpg", "mpg-habitat06.jpg", "mpg-habitat07.jpg", "mpg-habitat08.jpg", "mpg-habitat09.jpg", "mpg-habitat10.jpg", "mpg-habitat11.jpg", "mpg-habitat12.jpg", "mpg-habitat17.jpg", "mpg-habitat18.jpg"],
+    "description": "Something cool, filled with juicey buzzwords",
+    "description_long": "Something cool, filled with juicey buzzwords but longer",
+    "tech": ["PS", "AI"],
+    "thumb": "NAME.jpg",
+    "imgs": ["Name.jpg", "Name of all.jpg",],
     "size": "width3",
-    "date": "2016-12-22"
+    "date": "2017-00-00"
    }]
 }
