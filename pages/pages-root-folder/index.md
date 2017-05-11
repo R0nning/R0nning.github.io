@@ -9,12 +9,12 @@ header:
   title: Ronald Beitler
   image_fullwidth: ronald-map-header.jpg
 widget1:
-  title: "My Blog"
+  title: "My Work"
   url: 'work/'
   <!-- image: nag-toxicity-map01-thumb.jpg -->
   text: 'go'
 widget2:
-  title: "My Work"
+  title: "My Blog"
   url: 'blog/'
   <!-- image: widget02.jpg -->
   text: 'Here will be stuff too' 
