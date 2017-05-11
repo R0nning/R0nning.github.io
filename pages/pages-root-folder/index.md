@@ -10,17 +10,17 @@ header:
   image_fullwidth: ronald-map-header.jpg
 widget1:
   title: "My Blog"
-  url: '/work/'
+  url: 'work/'
   <!-- image: nag-toxicity-map01-thumb.jpg -->
   text: 'go'
 widget2:
   title: "My Work"
-  url: '/blog/'
+  url: 'blog/'
   <!-- image: widget02.jpg -->
   text: 'Here will be stuff too' 
 widget3:
-  title: "And Me"
-  url: '/contact/'
+  title: "My Projects"
+  url: 'projects/'
   <!-- image: widget03.jpg -->
   text: 'Here will be stuff'
 permalink: /index.html
