@@ -4,7 +4,7 @@ show_meta: false
 title: "Curriculum Vitae"
 meta_description: "Curriculum Vitae of Ron Beitler"
 subheadline: ""
-permalink: "/about/cv/"
+permalink: "/cv/"
 header: no
 ---
 [Download as a PDF]({{site.urlimg}}ronbeitler-resume.pdf)
