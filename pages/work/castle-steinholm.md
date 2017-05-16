@@ -12,7 +12,7 @@ category:
 header: no
 permalink: "/work/castle-steinholm.html"
 ---
-the rest was history. In order to to create this map open geospatial data was processed from sources such as 311, the NYPD, OpenStreetMap, and the NYC Open Data Portal. Cartography was done using Adobe Illustrator and MAPublisher.
+Cartography was done using Adobe Illustrator and Adobe Photoshop. Needed for a DnD project
 
 <strong>Technologies Used:</strong>  - Adobe Illustrator  - Adobe Photoshop 
 
