@@ -1,13 +1,13 @@
 {
   "author": "Ron Beitler",
   "work": [{
-    "title": "Title of Map",
+    "title": "Castle Steinholm",
     "tags": ["web", "cartography"],
-    "description": "Something cool, filled with juicey buzzwords.",
-    "description_long": "Something cool, filled with juicey buzzwords but longer",
-    "tech": ["PS", "AI"],
-    "thumb": "NAME.png",
-    "imgs": ["Name.jpg", "Name of all.jpg",],
+    "description": "The ancient dwarven castle of Steinholm.",
+    "description_long": "A map done for the Ehrenguard, Castle Steinholm is 6 levels. The dwarves. blah blahblha",
+    "tech": ["Adobe Illustrator", "Adobe Photoshop"],
+    "thumb": "castle-steinholm.png",
+    "imgs": ["castle-steinholm.jpg", "castle-steinholm1.jpg", "castle-steinholm2.jpg",],
     "size": "width3",
     "date": "2017-00-00"
   }, {
