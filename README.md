@@ -22,8 +22,6 @@ To add a new project add a new object entry to the `work` array in `_data/work.j
   (depreciated / unnecessary)
 - "date" : date the project was created in the format of Year-Month-Day, eg: "2014-11-02"
 
-Then `cd` to the `scripts` dir and do `node make-portfolio-pages.js`
-
 ## TO DO List:
 - [ ] Add portfolio work in Work -write it out, thumbnails, the whole whammy. Figure out the thumbnail stuff.
 
