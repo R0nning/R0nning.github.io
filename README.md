@@ -23,3 +23,22 @@ To add a new project add a new object entry to the `work` array in `_data/work.j
 - "date" : date the project was created in the format of Year-Month-Day, eg: "2014-11-02"
 
 Then `cd` to the `scripts` dir and do `node make-portfolio-pages.js`
+
+## TO DO List:
+- [ ] Add portfolio work in Work -write it out, thumbnails, the whole whammy. Figure out the thumbnail stuff.
+
+- [ ] Add CV / Resume
+
+- [ ] Add Projects page -I am not sure how I want this to work. I want to expand on this functionality to include sub projects and pages
+
+- [ ] Figure out contact page -Need to revist this. 
+
+- [ ] Find out how to add the gallery -Need something where the gallery is presented in a cool manner, and not just listed
+
+- [ ] Figure out how to forward the GitHub page to it's own domain -eventually own a my own name
+
+- [ ] Do a logo?
+
+- [ ] Google Anayltics? What the hell is that?
+
+- [ ] Meta Data stuff?? What the hell is that?
