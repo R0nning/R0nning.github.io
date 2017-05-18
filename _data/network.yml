@@ -5,10 +5,10 @@
 #   class: "network-entypo"
 #   title: "Icons by Daniel Bruce"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+# - name: "Built on Foundation"
+#  url: "http://foundation.zurb.com/"
+#  class: "services-newsletter"
+#  title: "Built on Foundation"
 
 # - name: "Images by Unsplash"
 #   url: "http://unsplash.com/"
