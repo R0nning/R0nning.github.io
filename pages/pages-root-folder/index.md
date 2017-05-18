@@ -12,12 +12,12 @@ widget1:
   title: "My Work"
   url: '/work/'
   <!-- image: nag-toxicity-map01-thumb.jpg -->
-  text: 'Graphics - Illustrations - Cartography Design - 3D Modeling'
+  text: 'Graphics - Illustrations - Cartography Design - 3D Modeling - and other attempts at art contained within'
 widget2:
   title: "My Projects"
   url: '/projects/'
   <!-- image: widget03.jpg -->
-  text: 'Personal Projects: Afterfall - the Baronage - the world of Eoere'
+  text: 'Personal Projects: Afterfall - the Baronage - the larger World of Eoere'
 widget3:
   title: "Contact Me"
   url: '/contact/'
