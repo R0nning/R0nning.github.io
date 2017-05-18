@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  title: Ronald Beitler
+  title: Ronald  Beitler
   image_fullwidth: ronald-map-header.jpg
 widget1:
   title: "My Work"
