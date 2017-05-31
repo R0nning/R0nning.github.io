@@ -11,6 +11,16 @@
     "size": "width3",
     "date": "2016-08-15"
   }, {
+    "title": "Age of Sail",
+    "tags": ["web", "cartography"],
+    "description": "A collection of Age of Sail ships, shaded and textured",
+    "description_long": "A collection of Age of Sail ships meticulously shaded and detailed depicting several layers of their holds as well as a detailed look of their sails and rigging. May at some point add some sailors moving about the decks and within the holds to make the pieces come to life a bit more.<br><br>* **Lady Gwenevere** is a carrack classified sailing vessel with three levels, the *hold*, the *lower deck*, the *main deck*, and rooms within the *fore* and *aftcastles*.",
+    "tech": ["PS", "AI"],
+    "thumb": "CaravelThumb.png",
+    "imgs": ["Caravel-Main.png", "Caravel-Lower", "Caravel-Upper",],
+    "size": "width3",
+    "date": "2017-05-30"
+   }, {
     "title": "Title of Map",
     "tags": ["web", "cartography"],
     "description": "Something cool, filled with juicey buzzwords",
@@ -20,15 +30,5 @@
     "imgs": ["Name.jpg", "Name of all.jpg",],
     "size": "width3",
     "date": "2017-00-00"
-  }, {
-    "title": "Age of Sail",
-    "tags": ["web", "cartography"],
-    "description": "A collection of Age of Sail ships, shaded and textured",
-    "description_long": "A collection of Age of Sail ships meticulously shaded and detailed depicting several layers of their holds as well as a detailed look of their sails and rigging. May at some point add some sailors moving about the decks and within the holds to make the pieces come to life a bit more.<br><br>* **Lady Gwenevere** is a carrack classified sailing vessel with three levels, the *hold*, the *lower deck*, the *main deck*, and rooms within the *fore* and *aftcastles*.",
-    "tech": ["PS", "AI"],
-    "thumb": "CaravelThumb.png",
-    "imgs": ["Caravel-Main.png", "Name of all.jpg",],
-    "size": "width3",
-    "date": "2017-05-30"
-   }]
+  }]
 }
