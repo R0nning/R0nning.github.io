@@ -15,20 +15,30 @@
     "tags": ["web", "cartography"],
     "description": "A collection of Age of Sail ships, shaded and textured",
     "description_long": "A collection of Age of Sail ships meticulously shaded and detailed depicting several layers of their holds as well as a detailed look of their sails and rigging. May at some point add some sailors moving about the decks and within the holds to make the pieces come to life a bit more.<br><br>* **Lady Gwenevere** is a carrack classified sailing vessel with three levels, the *hold*, the *lower deck*, the *main deck*, and rooms within the *fore* and *aftcastles*.",
-    "tech": ["PS", "AI"],
+    "tech": ["Adobe Illustrator", "Adobe Photoshop"],
     "thumb": "CaravelThumb.png",
     "imgs": ["Caravel-Main.png", "Caravel-Lower.png", "Caravel-Upper.png",],
     "size": "width3",
     "date": "2017-05-30"
-   }, {
+  }, {
+    "title": "Greater Baronage",
+    "tags": ["web", "cartography"],
+    "description": "Multi-island, kingdom sprawling nation known as the Baronage",
+    "description_long": "",
+    "tech": ["Adobe Illustrator", "Adobe Photoshop"],
+    "thumb": "Baronage-Thumb.png",
+    "imgs": ["Baronage-Main.png", "Baronage-Naked.png", "Baronage-Provin.png",],
+    "size": "width3",
+    "date": "2013-05-15"
+  }, {
     "title": "Title of Map",
     "tags": ["web", "cartography"],
     "description": "Something cool, filled with juicey buzzwords",
     "description_long": "Something cool, filled with juicey buzzwords but longer",
-    "tech": ["PS", "AI"],
+    "tech": ["Adobe Illustrator", "Adobe Photoshop"],
     "thumb": "NAME.jpg",
     "imgs": ["Name.jpg", "Name of all.jpg",],
     "size": "width3",
-    "date": "2017-00-00"
+    "date": "2013-05-15"
   }]
 }
