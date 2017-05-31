@@ -18,22 +18,22 @@ A collection of Age of Sail ships meticulously shaded and detailed depicting sev
 <strong>Technologies Used:</strong>  - Adobe Illustrator  - Adobe Photoshop 
 
 
-  <a href="{{site.url}}{{site.baseurl}}/images/CaravelMain.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/CaravelMain.png" width="100%" height="100%" alt="CaravelMain.png">
+  <a href="{{site.url}}{{site.baseurl}}/images/Caravel-Main.png" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/Caravel-Main.png" width="100%" height="100%" alt="Caravel-Main.png">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/CaravelMain.png" width="100%" height="100%" alt="CaravelMain.png">
+      <img src="{{site.url}}{{site.baseurl}}/images/Caravel-Main.png" width="100%" height="100%" alt="Caravel-Main.png">
     </noscript>
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/castle-steinholm1.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/castle-steinholm1.png" width="100%" height="100%" alt="castle-steinholm1.png">
+  <a href="{{site.url}}{{site.baseurl}}/images/Caravel-Lower.png" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/Caravel-Lower.png" width="100%" height="100%" alt="Caravel-Lower.png">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/castle-steinholm1.png" width="100%" height="100%" alt="castle-steinholm1.png">
+      <img src="{{site.url}}{{site.baseurl}}/images/Caravel-Lower.png" width="100%" height="100%" alt="Caravel-Lower.png">
     </noscript>
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/castle-steinholm2.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/castle-steinholm2.png" width="100%" height="100%" alt="castle-steinholm2.png">
+  <a href="{{site.url}}{{site.baseurl}}/images/Caravel-Upper.png" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/Caravel-Upper.png" width="100%" height="100%" alt="Caravel-Upper.png">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/castle-steinholm2.png" width="100%" height="100%" alt="castle-steinholm2.png">
+      <img src="{{site.url}}{{site.baseurl}}/images/Caravel-Upper.png" width="100%" height="100%" alt="Caravel-Upper.png">
     </noscript>
   </a>
 
