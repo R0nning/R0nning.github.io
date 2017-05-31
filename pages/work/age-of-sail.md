@@ -19,10 +19,7 @@ A collection of Age of Sail ships meticulously shaded and detailed depicting sev
 
 
   <a href="{{site.url}}{{site.baseurl}}/images/Caravel-Main.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/Caravel-Main.png" width="100%" height="100%" alt="Caravel-Main.png">
-    <noscript>
       <img src="{{site.url}}{{site.baseurl}}/images/Caravel-Main.png" width="100%" height="100%" alt="Caravel-Main.png">
-    </noscript>
   </a>
   <a href="{{site.url}}{{site.baseurl}}/images/Caravel-Lower.png" target="_blank">
     <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/Caravel-Lower.png" width="100%" height="100%" alt="Caravel-Lower.png">
