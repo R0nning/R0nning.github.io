@@ -22,17 +22,10 @@ A collection of Age of Sail ships meticulously shaded and detailed depicting sev
       <img src="{{site.url}}{{site.baseurl}}/images/Caravel-Main.png" width="100%" height="100%" alt="Caravel-Main.png">
   </a>
   <a href="{{site.url}}{{site.baseurl}}/images/Caravel-Lower.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/Caravel-Lower.png" width="100%" height="100%" alt="Caravel-Lower.png">
-    <noscript>
       <img src="{{site.url}}{{site.baseurl}}/images/Caravel-Lower.png" width="100%" height="100%" alt="Caravel-Lower.png">
-    </noscript>
   </a>
   <a href="{{site.url}}{{site.baseurl}}/images/Caravel-Upper.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/Caravel-Upper.png" width="100%" height="100%" alt="Caravel-Upper.png">
-    <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/Caravel-Upper.png" width="100%" height="100%" alt="Caravel-Upper.png">
-    </noscript>
+       <img src="{{site.url}}{{site.baseurl}}/images/Caravel-Upper.png" width="100%" height="100%" alt="Caravel-Upper.png">
   </a>
-
 
 [<span class="back-arrow">&#9664;;</span> Back to the Portfolio](/work/)
