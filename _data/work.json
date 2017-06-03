@@ -40,5 +40,15 @@
     "imgs": ["Name.jpg", "Name of all.jpg",],
     "size": "width3",
     "date": "2013-05-15"
+   }, {
+    "title": "GC Illustrations",
+    "tags": ["web", "technical"],
+    "description": "Several technical illustrations of spinal instruments",
+    "description_long": "",
+    "tech": ["Adobe Illustrator"],
+    "thumb": "GCThumb.png",
+    "imgs": ["GCD1.png", "GCD2.png", "GCD3.png", "GCD4.png",],
+    "size": "width3",
+    "date": "2015-05-15"
   }]
 }
