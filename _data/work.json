@@ -31,15 +31,15 @@
     "size": "width3",
     "date": "2013-05-15"
   }, {
-    "title": "Title of Map",
+    "title": "Kalsgrad",
     "tags": ["web", "cartography"],
-    "description": "Something cool, filled with juicey buzzwords",
-    "description_long": "Something cool, filled with juicey buzzwords but longer",
+    "description": "Kalsgrad -Ancestral Home of the Dwarves",
+    "description_long": "The city of Kalsgrad, perched above the Naar River",
     "tech": ["Adobe Illustrator", "Adobe Photoshop"],
-    "thumb": "NAME.jpg",
-    "imgs": ["Name.jpg", "Name of all.jpg",],
+    "thumb": "K-MainThumb.png",
+    "imgs": ["K-Main.png",],
     "size": "width3",
-    "date": "2013-05-15"
+    "date": "2015-06-26"
    }, {
     "title": "GCDesign",
     "tags": ["web", "technical"],
