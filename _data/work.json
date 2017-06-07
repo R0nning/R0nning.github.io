@@ -41,6 +41,16 @@
     "size": "width3",
     "date": "2015-06-26"
    }, {
+    "title": "Allorwyneth",
+    "tags": ["web", "cartography"],
+    "description": "The coastal city of Allorwyneth",
+    "description_long": "The city of Allorwyneth, the city of storms and serpents",
+    "tech": ["Adobe Illustrator", "Adobe Photoshop"],
+    "thumb": "AllorThumb.png",
+    "imgs": ["AllorMain.png",],
+    "size": "width3",
+    "date": "2013-12-17"
+   }, {
     "title": "GCDesign",
     "tags": ["web", "technical"],
     "description": "Several technical illustrations of spinal instruments",
