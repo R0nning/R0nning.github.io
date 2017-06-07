@@ -51,6 +51,16 @@
     "size": "width3",
     "date": "2013-12-17"
    }, {
+    "title": "Dwir",
+    "tags": ["web", "cartography"],
+    "description": "Dwir- small rural town",
+    "description_long": "Dwir is a small rural town",
+    "tech": ["Adobe Illustrator", "Adobe Photoshop"],
+    "thumb": "DwirThumb.png",
+    "imgs": ["DwirMain.png", "DwirKeyed.png"],
+    "size": "width3",
+    "date": "2013-12-17"
+   }, {
     "title": "GCDesign",
     "tags": ["web", "technical"],
     "description": "Several technical illustrations of spinal instruments",
