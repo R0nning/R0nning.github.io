@@ -10,7 +10,7 @@ tags:
 category:
   - work
 header: no
-permalink: "/work/allor.html"
+permalink: "/work/allorwyneth.html"
 ---
 Allorwyneth,
 
