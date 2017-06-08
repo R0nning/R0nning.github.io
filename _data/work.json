@@ -51,6 +51,16 @@
     "size": "width3",
     "date": "2013-12-17"
    }, {
+    "title": "Lanhart",
+    "tags": ["web", "cartography"],
+    "description": "the Village of Lanhart",
+    "description_long": "A small village nestled in the Greywall Mountains",
+    "tech": ["Adobe Illustrator", "Adobe Photoshop"],
+    "thumb": "LanhartThumb.png",
+    "imgs": ["LanhartMain.png"],
+    "size": "width3",
+    "date": "2014-02-15"
+   }, {
     "title": "Dwir",
     "tags": ["web", "cartography"],
     "description": "Dwir- small rural town",
