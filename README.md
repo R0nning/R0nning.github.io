@@ -5,9 +5,8 @@ Trying to add Masonry.. maybe Isotope.. all this stuff to my Work page in order 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/isotope.pkgd.js"></script>
 {% endif %}
 {% comment %}
-# <script src="{{ site.url }}{{ site.baseurl }}/assets/js/theme.js"></script>
-{% endcomment %}
-"
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/theme.js"></script>
+{% endcomment %}"
 Add that to Footerscripts when ready.
 
 # Portfolio
