@@ -1,18 +1,15 @@
-var $grid = $('.grid');
- 
-function triggerIsotope() {
-  if (! $grid) { return; }
-
-  $grid.isotope({
-      itemSelector: '.grid-item',
-      layoutMode: 'masonry',
-      masonry: {
-       columnWidth: 0
-      }
-  });
-
-}
-
 $(document).ready(function(){
-  triggerIsotope();
+
+ var $grid = $('.grid').isotope({
+   itemSelector: '.grid-item',
+    layoutMode: 'masonry',
+    masonry: {
+     columnWidth: 0
+    }
+   });
+
+$('#filters').on('click', 'button', function() {
+   var filterVal = $(this).attr('data-filter');
+   $grid.isotope({ filter: filterVal});
+  });
 }); 
