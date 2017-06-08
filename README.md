@@ -1,3 +1,6 @@
+# When Last I Left
+Trying to add Masonry.. maybe Isotope.. all this stuff to my Work page in order to get a nifty tileset going that I see on some other portfolios. So far, as I understand it, the javascript files are located where they needed to be. They are loaded in vai the Footer Scripts include which allows them to be powered up and ran.  With that said, I have the SASS file 12Theme as being where the theme for these scripts is refrence. I also have a Theme javacript where I think the meat and potatoes of the masonry/isotope works. I need to take a break.
+
 # Portfolio
 
 Personal portfolio and blog of Ron Beitler *attempting* to use the Feeling Resposive Jekyll theme with some added style tweaks. Forked from Phlow and borrowed heavily from clhenrick.
