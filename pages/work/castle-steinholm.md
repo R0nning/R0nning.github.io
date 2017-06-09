@@ -16,25 +16,29 @@ Cartography was done using Adobe Illustrator and Adobe Photoshop. Needed for a D
 
 <strong>Technologies Used:</strong>  - Adobe Illustrator  - Adobe Photoshop 
 
-
-  <a href="{{site.url}}{{site.baseurl}}/images/love-and-rage.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/castle-steinholm.png" width="100%" height="100%" alt="castle-steinholm.png">
-    <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/castle-steinholm.png" width="100%" height="100%" alt="castle-steinholm.png">
-    </noscript>
+ <a href="{{site.url}}{{site.baseurl}}/images/LanhartMain.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="LanhartMain.png">
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/castle-steinholm1.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/castle-steinholm1.png" width="100%" height="100%" alt="castle-steinholm1.png">
-    <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/castle-steinholm1.png" width="100%" height="100%" alt="castle-steinholm1.png">
-    </noscript>
+    <a href="{{site.url}}{{site.baseurl}}/images/LanhartPeople.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="LanhartPeople.png">
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/castle-steinholm2.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/castle-steinholm2.png" width="100%" height="100%" alt="castle-steinholm2.png">
-    <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/castle-steinholm2.png" width="100%" height="100%" alt="castle-steinholm2.png">
-    </noscript>
+      <a href="{{site.url}}{{site.baseurl}}/images/TG.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="TG.jpg">
   </a>
-
-
+        <a href="{{site.url}}{{site.baseurl}}/images/T2.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="T2.jpg">
+  </a>
+        <a href="{{site.url}}{{site.baseurl}}/images/T3.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="T3.jpg">
+  </a>
+        <a href="{{site.url}}{{site.baseurl}}/images/T42.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="T42.jpg">
+  </a>
+        <a href="{{site.url}}{{site.baseurl}}/images/T4.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="T4.jpg">
+  </a>
+        <a href="{{site.url}}{{site.baseurl}}/images/Top.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="Top.jpg">
+  </a>
+  
 [<span class="back-arrow">&#9664;;</span> Back to the Portfolio](/work/)
