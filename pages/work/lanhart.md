@@ -19,10 +19,10 @@ quality at the expense of time.
 <strong>Technologies Used:</strong>  - Adobe Illustrator  - Adobe Photoshop
 
   <a href="{{site.url}}{{site.baseurl}}/images/LanhartMain.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="LanhartMain.png">
+      <img src="{{site.url}}{{site.baseurl}}/images/LanhartMain.png" width="100%" height="100%" alt="LanhartMain.png">
   </a>
     <a href="{{site.url}}{{site.baseurl}}/images/LanhartPeople.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/DwirKeyed.png" width="100%" height="100%" alt="LanhartPeople.png">
+      <img src="{{site.url}}{{site.baseurl}}/images/LanhartPeople.png" width="100%" height="100%" alt="LanhartPeople.png">
   </a>
   
 [<span class="back-arrow">&#9664;;</span> Back to the Portfolio](/work/)
