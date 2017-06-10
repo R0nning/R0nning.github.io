@@ -7,7 +7,7 @@
     "description_long": "A map done for the Ehrenguard, Castle Steinholm is 6 levels. The dwarves. blah blahblha",
     "tech": ["Adobe Illustrator", "Adobe Photoshop"],
     "thumb": "SteinholmThumb.png",
-    "imgs": ["SteinholmB2.jpg", "B1.jpg", "TG.jpg", "T2.jpg", "T3.jpg", "T42.jpg", "T4.jpg", "Top.jpg",],
+    "imgs": ["SteinBasements.png", "SteinFloors.png", "SteinBasements.png", "SteinUpperFloors.png", "SteinTop.png",],
     "size": "width3",
     "date": "2016-08-15"
   }, {
