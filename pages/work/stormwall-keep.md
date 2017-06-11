@@ -10,7 +10,7 @@ tags:
 category:
   - work
 header: no
-permalink: "/work/stormwall.html"
+permalink: "/work/stormwall-keep.html"
 ---
 Cartography was done using Adobe Illustrator and Adobe Photoshop. Needed for a DnD project
 
