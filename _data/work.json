@@ -76,8 +76,8 @@
     "description": "An ancesteral home deep within Allorwyneth",
     "description_long": "Stormwall Keep is ",
     "tech": ["Adobe Illustrator", "Adobe Photoshop"],
-    "thumb": "StormThumb.png",
-    "imgs": ["Storm1.png", "Storm2.png", "Storm3.png",],
+    "thumb": "StrongThumb.png",
+    "imgs": ["Strong1.png", "Strong2.png", "Strong3.png",],
     "size": "width3",
     "date": "2013-20-09"
   }, {
