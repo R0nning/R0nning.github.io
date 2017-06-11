@@ -26,7 +26,7 @@ Cartography was done using Adobe Illustrator and Adobe Photoshop. Needed for a D
       <img src="{{site.url}}{{site.baseurl}}/images/SteinUpperFloors.png" width="100%" height="100%" alt="SteinUpperFloors.png">
   </a>
         <a href="{{site.url}}{{site.baseurl}}/images/SteinTop.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/SteinTop.pngg" width="100%" height="100%" alt="SteinTop.png">
+      <img src="{{site.url}}{{site.baseurl}}/images/SteinTop.png" width="100%" height="100%" alt="SteinTop.png">
   </a>
   
 [<span class="back-arrow">&#9664;;</span> Back to the Portfolio](/work/)
