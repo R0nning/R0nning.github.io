@@ -41,7 +41,7 @@ button, .button {
     color: $ci-4;
 
     &:hover {
-      color: lighten($ci-7, 10%);
+      color: lighten($ci-4, 10%);
       background-color: $body-bg !important;
     }
   }
