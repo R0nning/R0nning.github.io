@@ -1,49 +1,49 @@
-* {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
+$(document).ready(function(){
 
-// isotope columns
-.grid {  
-  width: 100%;
-  // height: 100%;
-  border: 1px solid #999;
-  background-color: #fff;
+  var $grid = $('.grid');
 
-  /* clear fix */
-  &:after {
-    content: '';
-    display: block;
-    clear: both;
+  function initMasonry() {
+    $grid.isotope({
+      itemSelector: '.grid-item',
+      layoutMode: 'packery',
+      packery: {
+        columnWidth: '.grid-sizer',
+        gutter: '.gutter-sizer',
+        percentPosition: true
+      }
+    });
+
+    // layout Isotope after all images have loaded
+    $grid.imagesLoaded(function() {
+      $grid.isotope({
+        itemSelector: '.grid-item',
+        layoutMode: 'packery',
+        packery: {
+          columnWidth: '.grid-sizer',
+          gutter: '.gutter-sizer',
+          percentPosition: true
+        }
+      });
+    });
+
+    $('#filters').on('click', 'button', function() {
+      var filterVal = $(this).attr('data-filter');
+      $grid.isotope({ filter: filterVal});
+      $grid.isotope('shuffle');
+      
+      if (!$(this).hasClass('shuffle')){
+        $('#filters > button').removeClass('active');
+        $(this).addClass('active');
+      }
+    });
+
+    $('.shuffle').on('click', function() {
+      $('#filters > button').removeClass('active');
+      $('button.all').addClass('active');
+      $grid.isotope('shuffle');  
+    });
+
   }
-}
-
-.grid-item { 
-float: left;
-width: 25%; 
-  min-height: 200px;
-  display: inline-block;
-  margin: 0%;
-  padding: 5px;
-  background-color: #999;
-  border: 1px solid #fff;
-
-  &.width2 { 
-    width: 50%; 
-    background-color: red;
-  }
-
-  &.width3 {
-    width: 75%;
-      background-color: lighten(blue, 30);
-    }
-
-&.height1 {
-   min-height: 300px;
-}
-
-  &.height2 {
-    min-height: 400px;
-  }
-} 
+  
+  initMasonry();
+});
