@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   title: Ronald  Beitler
+  title-color: "#334D5C"
   image_fullwidth: ronald-map-header.jpg
 widget1:
   title: "My Work"
