@@ -11,7 +11,7 @@ header:
 widget1:
   title: "My Work"
   url: '/work/'
-  <!-- image: nag-toxicity-map01-thumb.jpg -->
+  <!-- image: widget03.jpg -->
   text: 'Graphics - Illustrations - Cartography Design - 3D Modeling - and other attempts at art contained within'
 widget2:
   title: "My Projects"
