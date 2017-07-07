@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 title: "Portfolio"
-meta_description: ""
+meta_description: "excuse the look - still constructing!"
 subheadline: ""
 permalink: "/work/"
 header: no
