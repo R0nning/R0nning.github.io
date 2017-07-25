@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: Ronald  Beitler
-  image_fullwidth: ronald-map-header.jpg
+  image_fullwidth: ronald-map-header.png
 widget1:
   title: "My Work"
   url: '/work/'
