@@ -3,7 +3,7 @@ layout: page-fullwidth
 show_meta: false
 title: "Portfolio"
 meta_description: ""
-subheadline: "excuse the look - still constructing!"
+subheadline: "Due to the senstive nature of my work additional, pictures of the application of artwork can be provided through a secure format."
 permalink: "/work/"
 header: no
 ---
