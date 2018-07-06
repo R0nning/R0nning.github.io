@@ -16,7 +16,68 @@ The following pieces were constructed in Adobe Illustrator using three different
 
 <strong>Technologies Used:</strong>  - Adobe Illustrator  - AutoCAD - STP Viewer 
 
-
+  <a href="{{site.url}}{{site.baseurl}}/images/GD1.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD1.png" width="100%" height="100%" alt="GD1.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GD2.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="GD2.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GD3.png" target="_blank">
+       <img src="{{site.url}}{{site.baseurl}}/images/GCD3.png" width="100%" height="100%" alt="GD3.png">
+  </a>
+    <a href="{{site.url}}{{site.baseurl}}/images/RL1.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD1.png" width="100%" height="100%" alt="RL1.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/RL2.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="RL2.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/RL3.png" target="_blank">
+       <img src="{{site.url}}{{site.baseurl}}/images/GCD3.png" width="100%" height="100%" alt="RL3.png">
+  </a>
+    <a href="{{site.url}}{{site.baseurl}}/images/GD4.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD1.png" width="100%" height="100%" alt="GD4.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GD6.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="GD6.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GD5.png" target="_blank">
+       <img src="{{site.url}}{{site.baseurl}}/images/GCD3.png" width="100%" height="100%" alt="GD5.png">
+  </a>
+    <a href="{{site.url}}{{site.baseurl}}/images/GD7.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD1.png" width="100%" height="100%" alt="GD7.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/RL5.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="RL5.png">
+  </a>
+    <a href="{{site.url}}{{site.baseurl}}/images/RL4.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="RL4.png">
+  </a>
+    <a href="{{site.url}}{{site.baseurl}}/images/RL6.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="RL6.png">
+  </a>
+    <a href="{{site.url}}{{site.baseurl}}/images/RL7.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="RL7.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GD8.png" target="_blank">
+       <img src="{{site.url}}{{site.baseurl}}/images/GCD3.png" width="100%" height="100%" alt="GD8.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GCD1.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD1.png" width="100%" height="100%" alt="GCD1.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GCD2.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="GCD2.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GCD3.png" target="_blank">
+       <img src="{{site.url}}{{site.baseurl}}/images/GCD3.png" width="100%" height="100%" alt="GCD3.png">
+  </a>  <a href="{{site.url}}{{site.baseurl}}/images/GCD1.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD1.png" width="100%" height="100%" alt="GCD1.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GCD2.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/GCD2.png" width="100%" height="100%" alt="GCD2.png">
+  </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/GCD3.png" target="_blank">
+       <img src="{{site.url}}{{site.baseurl}}/images/GCD3.png" width="100%" height="100%" alt="GCD3.png">
+  </a>
   <a href="{{site.url}}{{site.baseurl}}/images/GCD1.png" target="_blank">
       <img src="{{site.url}}{{site.baseurl}}/images/GCD1.png" width="100%" height="100%" alt="GCD1.png">
   </a>
