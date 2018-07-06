@@ -14,7 +14,7 @@ permalink: "/work/gcdesign.html"
 ---
 The following pieces were constructed in Adobe Illustrator using three different line weights and various gradients that go from color, to transparent. The linework was traditionally done first before the shading was added. Text was turned off to highlight the artwork.
 
-<strong>Technologies Used:</strong>  - Adobe Illustrator  - AutoCAD - STP Viewer 
+<strong>Technologies Used:</strong>  - Adobe Illustrator  - AutoCAD - PTC Creo 3
 
   <a href="{{site.url}}{{site.baseurl}}/images/GD1.png" target="_blank">
       <img src="{{site.url}}{{site.baseurl}}/images/GCD1.png" width="100%" height="100%" alt="GD1.png">
