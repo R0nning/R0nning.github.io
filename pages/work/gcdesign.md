@@ -25,14 +25,14 @@ The following pieces were constructed in Adobe Illustrator using three different
   <a href="{{site.url}}{{site.baseurl}}/images/GD3.png" target="_blank">
        <img src="{{site.url}}{{site.baseurl}}/images/GD3.png" width="100%" height="100%" alt="GD3.png">
   </a>
-    <a href="{{site.url}}{{site.baseurl}}/images/RL1.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/RL1.png" width="100%" height="100%" alt="RL1.png">
+    <a href="{{site.url}}{{site.baseurl}}/images/RL1.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/RL1.jpg" width="100%" height="100%" alt="RL1.jpg">
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/RL2.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/RL2.png" width="100%" height="100%" alt="RL2.png">
+  <a href="{{site.url}}{{site.baseurl}}/images/RL2.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/RL2.jpg" width="100%" height="100%" alt="RL2.jpg">
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/RL3.png" target="_blank">
-       <img src="{{site.url}}{{site.baseurl}}/images/RL3.png" width="100%" height="100%" alt="RL3.png">
+  <a href="{{site.url}}{{site.baseurl}}/images/RL3.jpg" target="_blank">
+       <img src="{{site.url}}{{site.baseurl}}/images/RL3.jpg" width="100%" height="100%" alt="RL3.jpg">
   </a>
     <a href="{{site.url}}{{site.baseurl}}/images/GD4.png" target="_blank">
       <img src="{{site.url}}{{site.baseurl}}/images/GD4.png" width="100%" height="100%" alt="GD4.png">
@@ -46,17 +46,17 @@ The following pieces were constructed in Adobe Illustrator using three different
     <a href="{{site.url}}{{site.baseurl}}/images/GD7.png" target="_blank">
       <img src="{{site.url}}{{site.baseurl}}/images/GD7.png" width="100%" height="100%" alt="GD7.png">
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/RL5.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/RL5.png" width="100%" height="100%" alt="RL5.png">
+  <a href="{{site.url}}{{site.baseurl}}/images/RL5.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/RL5.jpg" width="100%" height="100%" alt="RL5.jpg">
   </a>
-    <a href="{{site.url}}{{site.baseurl}}/images/RL4.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/RL4.png" width="100%" height="100%" alt="RL4.png">
+    <a href="{{site.url}}{{site.baseurl}}/images/RL4.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/RL4.jpg" width="100%" height="100%" alt="RL4.jpg">
   </a>
-    <a href="{{site.url}}{{site.baseurl}}/images/RL6.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/RL6.png" width="100%" height="100%" alt="RL6.png">
+    <a href="{{site.url}}{{site.baseurl}}/images/RL6.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/RL6.jpg" width="100%" height="100%" alt="RL6.jpg">
   </a>
-    <a href="{{site.url}}{{site.baseurl}}/images/RL7.png" target="_blank">
-      <img src="{{site.url}}{{site.baseurl}}/images/RL7.png" width="100%" height="100%" alt="RL7.png">
+    <a href="{{site.url}}{{site.baseurl}}/images/RL7.jpg" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/RL7.jpg" width="100%" height="100%" alt="RL7.jpg">
   </a>
   <a href="{{site.url}}{{site.baseurl}}/images/GD8.png" target="_blank">
        <img src="{{site.url}}{{site.baseurl}}/images/GD8.png" width="100%" height="100%" alt="GD8.png">
