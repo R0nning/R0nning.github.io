@@ -19,6 +19,9 @@ The following pieces were constructed in Adobe Illustrator using three different
   <a href="{{site.url}}{{site.baseurl}}/images/GD1.png" target="_blank">
       <img src="{{site.url}}{{site.baseurl}}/images/GD1.png" width="100%" height="100%" alt="GD1.png">
   </a>
+  <a href="{{site.url}}{{site.baseurl}}/images/Inside.png" target="_blank">
+      <img src="{{site.url}}{{site.baseurl}}/images/Inside.png" width="100%" height="100%" alt="Inside.png">
+  </a>
   <a href="{{site.url}}{{site.baseurl}}/images/GD2.png" target="_blank">
       <img src="{{site.url}}{{site.baseurl}}/images/GD2.png" width="100%" height="100%" alt="GD2.png">
   </a>
